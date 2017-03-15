@@ -1,0 +1,52 @@
+*{
+	transition: all 2s ease;
+}
+button {
+background-color: black;
+width: 500px;
+height:100px;
+
+
+}
+
+.secname {
+color: white;
+}
+
+.text {
+width:300px;
+text-align: center;
+}
+
+button:hover {
+color:darkgray;
+}
+.field {
+text-align: center;
+}
+p {
+margin-left: 650px;
+}
+
+.btn1 {
+text-align: center;
+font-size: 50px;
+color: white;
+background-color:black;
+width: 60px;
+height: 60px;
+position: absolute;
+left:493px;
+top:225px;
+}
+.btn2 {
+width: 60px;
+height: 60px;
+position: absolute;
+right: 493px;
+top: 225px;
+text-align: center;
+font-size: 50px;
+color: white;
+background-color:black;
+}
